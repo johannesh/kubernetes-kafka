@@ -2,7 +2,7 @@
 kind: ConfigMap
 metadata:
   name: test-basic-with-kafkacat
-  namespace: default
+  namespace: test-kafka
 apiVersion: v1
 data:
 
